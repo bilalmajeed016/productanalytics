@@ -1,5 +1,5 @@
 # productanalytics
-<a StockX auction analysis Project </a>
+<a StockX auction analysis Project </n>
 <a As you explore the bid data from the Ben Baller IPO (focus on the bid data during the IPO, excluding the bid-ask data from the secondary market), conduct some exploratory analysis of the data: </a>
 <a How many bids were received by color and shoe size? </a>
 <a Is there a relationship between number of bids and quantity available? Between bid amount and quantity available? </a>
